@@ -48,12 +48,14 @@ h3 {
     width: 375px;
     height: 180px;
     margin-right: 15px;
+    border-radius: 8px;
 }
 
 .image2 {
     width: 375px;
     height: 180px;
     margin-left: 15px;
+    border-radius: 8px;
 }
 
 .githublogo {
