@@ -44,6 +44,11 @@ h3 {
     margin-right: 10%;
 }
 
+#row2 {
+    margin-left: 28.5%;
+    margin-right: 10%;
+}
+
 .image1 {
     width: 375px;
     height: 180px;
@@ -55,6 +60,14 @@ h3 {
     width: 375px;
     height: 180px;
     margin-left: 15px;
+    border-radius: 8px;
+}
+
+.image3 {
+    width: 375px;
+    height: 180px;
+    margin-right: 15px;
+    margin-top: 15px;
     border-radius: 8px;
 }
 
@@ -98,6 +111,12 @@ h3 {
         margin-right: 24%;
     }
 
+    #row2 {
+        padding-top: 0;
+        margin-left: 24%;
+        margin-right: 24%;
+    }
+
     .image1 {
         width: 200px;
         height: 90px;
@@ -108,6 +127,12 @@ h3 {
         width: 200px;
         height: 90px;
         margin-left: 1px;
+    }
+
+    .image3 {
+        width: 200px;
+        height: 90px;
+        margin-right: 1px;
     }
 
     hr {
@@ -156,6 +181,13 @@ h3 {
         margin-right: 25%;
     }
 
+    #row2 {
+        padding-top: 0;
+        margin-left: 28.8%;
+        margin-right: 25%;
+    }
+
+
     .image1 {
         width: 200px;
         height: 90px;
@@ -166,6 +198,12 @@ h3 {
         width: 200px;
         height: 90px;
         margin-left: 2px;
+    }
+
+    .image3 {
+        width: 200px;
+        height: 90px;
+        margin-right: 2px;
     }
 
     hr {
